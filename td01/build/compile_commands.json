@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Nina/Scolarite/IMAC/Cours/Prog/td01/build",
+  "command": "C:\\Winlibs\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\td01_ex01.dir\\src\\td01_ex01.cpp.obj -c C:\\Nina\\Scolarite\\IMAC\\Cours\\Prog\\td01\\src\\td01_ex01.cpp",
+  "file": "C:/Nina/Scolarite/IMAC/Cours/Prog/td01/src/td01_ex01.cpp",
+  "output": "CMakeFiles/td01_ex01.dir/src/td01_ex01.cpp.obj"
+},
+{
+  "directory": "C:/Nina/Scolarite/IMAC/Cours/Prog/td01/build",
+  "command": "C:\\Winlibs\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\td01_ex02.dir\\src\\td01_ex02.cpp.obj -c C:\\Nina\\Scolarite\\IMAC\\Cours\\Prog\\td01\\src\\td01_ex02.cpp",
+  "file": "C:/Nina/Scolarite/IMAC/Cours/Prog/td01/src/td01_ex02.cpp",
+  "output": "CMakeFiles/td01_ex02.dir/src/td01_ex02.cpp.obj"
+},
+{
+  "directory": "C:/Nina/Scolarite/IMAC/Cours/Prog/td01/build",
+  "command": "C:\\Winlibs\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\test.dir\\src\\test.cpp.obj -c C:\\Nina\\Scolarite\\IMAC\\Cours\\Prog\\td01\\src\\test.cpp",
+  "file": "C:/Nina/Scolarite/IMAC/Cours/Prog/td01/src/test.cpp",
+  "output": "CMakeFiles/test.dir/src/test.cpp.obj"
+}
+]
