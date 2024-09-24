@@ -1,3 +1,0 @@
-C:\Winlibs\mingw64\bin\cmake.exe -E rm -f CMakeFiles\td03_exo1.dir/objects.a
-C:\Winlibs\mingw64\bin\ar.exe qc CMakeFiles\td03_exo1.dir/objects.a @CMakeFiles\td03_exo1.dir\objects1.rsp
-C:\Winlibs\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\td03_exo1.dir/objects.a -Wl,--no-whole-archive -o td03_exo1.exe -Wl,--out-implib,libtd03_exo1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\td03_exo1.dir\linkLibs.rsp

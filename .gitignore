@@ -1,0 +1,33 @@
+# Dossier de build
+/build/
+/cmake-build-debug/
+/CMakeFiles/
+/CMakeCache.txt
+
+# Fichiers générés par CMake
+Makefile
+*.cbp
+*.sh
+*.cmake
+*.vcxproj*
+*.sln
+compile_commands.json
+
+# Fichiers binaires
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.o
+*.obj
+
+# Fichiers de logs
+*.log
+
+# Dossiers spécifiques à certains IDEs
+/.vscode/
+/.idea/
+/*.swp

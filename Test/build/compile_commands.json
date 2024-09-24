@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Nina/Scolarite/IMAC/Cours/Prog/td1/build",
-  "command": "C:\\Winlibs\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\helloImac.dir\\helloImac.cpp.obj -c C:\\Nina\\Scolarite\\IMAC\\Cours\\Prog\\td1\\helloImac.cpp",
-  "file": "C:/Nina/Scolarite/IMAC/Cours/Prog/td1/helloImac.cpp",
-  "output": "CMakeFiles/helloImac.dir/helloImac.cpp.obj"
-}
-]
